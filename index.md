@@ -15,13 +15,15 @@
 
 My name is Mia Zhao. Right now, I am a Master student at Fudan University. In August, I will go to the University of Southern California to pursue my Ph.D. degree. I love enjoying the life!!
 
-This is my [CV](https://github.com/Mialalala/Mialalala.github.io/blob/master/resume_YuhuanZhao_IELTS_2.pdf).
+This is my [CV](/resume_YuhuanZhao_IELTS_2.pdf).
 
 # EDUCAION
 
 September, 2016 - July 2019.  Fudan University;                                         Undergraduate, GPA: 3.54/4.
 
 September, 2012 - July 2016.  University of Electronic Science and Technology of China; Undergraduate, GPA: 3.91/4.
+
+September, 2014 - December 2014.  City University of Hong Kong;                         Exchange, GPA: 4.2/4.3
 
 # RESEARCH FIELD
 
