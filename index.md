@@ -15,6 +15,8 @@
 
 My name is Mia Zhao. Right now, I am a Master student at Fudan University. In August, I will go to the University of Southern California to pursue my Ph.D. degree. I love enjoying the life!!
 
+This is my [CV](地址)
+
 # EDUCAION
 
 September, 2016 - July 2019.  Fudan University;                                         Undergraduate, GPA: 3.54/4.
