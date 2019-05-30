@@ -1,15 +1,7 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+name: Mia Zhao
+email: 1516770582@qq.com
+motto: Let's fight!!
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -17,10 +9,33 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: Mialalala
 
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
+# Who AM I?
+
+My name is Mia Zhao. Right now, I am a Master student under supervision of Associate Professor [Peng Liu](http://www.it.fudan.edu.cn/Data/View/1046) at Fudan University. In August, I will go to the University of Southern California to pursue my Ph.D. degree. I love enjoying the life!!
+
+This is my [CV](/resume_YuhuanZhao_IELTS_2.pdf).
+
+# EDUCAION
+
+September, 2016 - July 2019.  [Fudan University](http://www.fudan.edu.cn).  Master student; GPA: 3.54/4.
+
+September, 2012 - July 2016.  [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).  Undergraduate; GPA: 3.91/4.
+
+September, 2014 - December 2014.  [City University of Hong Kong](https://www.cityu.edu.hk/).  Exchange; GPA: 4.2/4.3.
+
+# RESEARCH FIELD
+
+Basically, I analyze data and imagery from microwave systems using kinds of technologies, such as statistics, deep learning.
+
+# PUBLICATIONS
+
+**Zhao Y. H.** , Liu P., [Adaptive Ship Detection for Single-Look Complex SAR Images Based on SVWIE-Noncircularity Decomposition](https://doi.org/10.3390/s18103293)[J]. Sensors, 2018, 18(10).
+
+**Zhao Y. H.**, Han X., Liu P., [A RPCA and RANSAC Based Algorithm for Ship Wake Detection in SAR Images](https://ieeexplore.ieee.org/document/8634199)[C]//2018 12th International Symposium on Antennas, Propagation and EM Theory (ISAPE). IEEE, 2018: 1-4.
 
