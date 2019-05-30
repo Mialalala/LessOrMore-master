@@ -19,7 +19,7 @@ This is my [CV](/resume_YuhuanZhao_IELTS_2.pdf).
 
 # EDUCAION
 
-September, 2016 - July 2019.  [Fudan University](http://www.fudan.edu.cn).  Undergraduate; GPA: 3.54/4.
+September, 2016 - July 2019.  [Fudan University](http://www.fudan.edu.cn).  Master student; GPA: 3.54/4.
 
 September, 2012 - July 2016.  [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).  Undergraduate; GPA: 3.91/4.
 
