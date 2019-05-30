@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>Mia Zhao</h1>
       <p><b>Fudan University</b></p>
-      <p><b>Email：1516770582@qq.com</b></p>
+      <p><b>Email：zhaoyh418@gmail.com</b></p>
     </td>
     <td width="25%">
       <img src="/Mia.jpg" width="100%"> 
@@ -25,7 +25,7 @@ September, 2012 - July 2016.  University of Electronic Science and Technology of
 
 Basically, I analyze data and imagery from microwave systems using kinds of technologies, such as statistics, deep learning.
 
-# PUBLICATION
+# PUBLICATIONS
 
 **Zhao Y H** , Liu P . Adaptive Ship Detection for Single-Look Complex SAR Images Based on SVWIE-Noncircularity Decomposition[J]. Sensors, 2018, 18(10).
 
