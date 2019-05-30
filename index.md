@@ -1,8 +1,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Mia</h1>
-      <p><b>邮箱：1516770582@qq.com</b></p>
+      <h1>Mia Zhao</h1>
+      <p><b>Fudan University</b></p>
+      <p><b>Email：1516770582@qq.com</b></p>
     </td>
     <td width="25%">
       <img src="/Mia.jpg" width="100%"> 
