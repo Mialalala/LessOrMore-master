@@ -36,3 +36,7 @@ Basically, I analyze data and imagery from microwave systems using kinds of tech
 **Zhao Y. H.** , Liu P., [Adaptive Ship Detection for Single-Look Complex SAR Images Based on SVWIE-Noncircularity Decomposition](https://doi.org/10.3390/s18103293)[J]. Sensors, 2018, 18(10).
 
 **Zhao Y. H.**, Han X., Liu P., [A RPCA and RANSAC Based Algorithm for Ship Wake Detection in SAR Images](https://ieeexplore.ieee.org/document/8634199)[C]//2018 12th International Symposium on Antennas, Propagation and EM Theory (ISAPE). IEEE, 2018: 1-4.
+
+### SUBMITTED PAPER
+
+**Zhao Y. H.**, Ding T., Zhang Y. Z., Kræmer T., Lei R. B., A Semi-Supervised Approach of Sea Ice SAR Image Segmentation Based on Wasserstein GAN[J]. Submitted to Geoscience and Remote Sensing Letters, 2019.
