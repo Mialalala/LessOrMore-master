@@ -15,7 +15,7 @@
 
 ## Who AM I?
 
-My name is Mia Zhao. Right now, I am a Master student under supervision of Associate Professor [Peng Liu](http://www.it.fudan.edu.cn/Data/View/1046) at Fudan University. In August, I will go to the University of Southern California to pursue my Ph.D. degree. 
+My name is Mia Zhao. Right now, I am a Master student under supervision of Associate Professor [Peng Liu](http://www.it.fudan.edu.cn/Data/View/1046) at Fudan University. In August, I will go to University of Southern California to pursue my Ph.D. degree. 
 
 I love enjoying the life!! I have lots of habits, including travelling, hiking, making stranger friends, listening to music.
 
